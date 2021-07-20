@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/pavel/code/The-Pavel/TaxiFareModel/mlruns/1/3bfd61a21fad48a085ce99cee2017b0c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 3bfd61a21fad48a085ce99cee2017b0c
+run_uuid: 3bfd61a21fad48a085ce99cee2017b0c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1626513874180
+status: 1
+tags: []
+user_id: unknown
